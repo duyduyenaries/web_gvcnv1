@@ -1,0 +1,5 @@
+{
+  "name": "web_gvcn_v3",
+  "description": "Ứng dụng quản lý lớp học dành cho Giáo viên chủ nhiệm và Phụ huynh/Học sinh với kiến trúc Clean Architecture.",
+  "requestFramePermissions": []
+}
